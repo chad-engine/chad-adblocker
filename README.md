@@ -3,11 +3,11 @@ Adblock System that used at chad lol
 
 How to implement:
 
-    Implement mian.java into your Project
+  1.Implement mian.java into ur project
 
-    Create a raw folder in Android Studio ({projectname}\app\src\main\res\raw)
+  2.Create a raw folder in Droid Studio ({instertfunnyprojectnameherelollmaourhgbet3uhgedrbe}\app\src\main\res\raw)
 
-    Add filterlists to raw folder:https://raw.githubusercontent.com/Openadblockserverlist/adblockserverlist/master/adblockserverlist.txt (lisance:https://www.gnu.org/licenses/gpl-3.0.en.html)
+  3.Add filterlists to raw folder:https://raw.githubusercontent.com/Openadblockserverlist/adblockserverlist/master/adblockserverlist.txt (lisance:https://www.gnu.org/licenses/gpl-3.0.en.html)
     
     
 ok bye
