@@ -60,8 +60,8 @@ public class web extends WebViewClient {
       @Override
       public WebResourceResponse shouldInterceptRequest(WebView view, WebResourceRequest request) {
 	ByteArrayInputStream EMPTY = new ByteArrayInputStream("".getBytes());
-                    String kk5 = String.valueOf(adservers);
-                    if (kk5.contains(":::::"+request.getUrl().getHost())) {
+                    String value = String.valueOf(adservers);
+                    if (value.contains(":::::"+request.getUrl().getHost())) {
                         return new WebResourceResponse("text/plain", "utf-8", EMPTY);
                     }
           return super.shouldInterceptRequest(view, request);
