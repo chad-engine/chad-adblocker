@@ -3,7 +3,7 @@ Adblock System that used at chad lol
 
 How to implement:
 
-  1.Implement mian.java into ur project
+  1.Implement main.java into ur project somehow
 
   2.Create a raw folder in Droid Studio ({instertfunnyprojectnameherelollmaourhgbet3uhgedrbe}\app\src\main\res\raw)
 
